@@ -1,0 +1,6 @@
+module Pods_555opp_555oppUITests {
+  umbrella header "Pods-555opp-555oppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

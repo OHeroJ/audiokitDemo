@@ -1,0 +1,6 @@
+module Pods_555opp {
+  umbrella header "Pods-555opp-umbrella.h"
+
+  export *
+  module * { export * }
+}
